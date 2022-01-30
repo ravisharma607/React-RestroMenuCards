@@ -1,0 +1,79 @@
+@import url('https://fonts.googleapis.com/css2?family=Mulish&family=Source+Serif+Pro&family=Supermercado+One&display=swap');
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+.navbar-nav .nav-item .nav-link{
+    color: red !important;
+    font-size:1.5rem;
+    margin:auto 42px;
+    font-weight: bold;
+    font-family: 'Supermercado One', cursive;
+}
+.navbar-nav .nav-item .nav-link:hover{
+    color:blue !important;
+   transition: .5s;
+   border-bottom:1px solid #000;
+}
+.cardData{
+    margin:16px 0;
+    text-align:center;
+}
+.card-body img{
+    height:30vh;
+}
+.navbar-brand{
+    color:red !important;
+    font-size:2rem;
+    font-weight: bold;
+    font-family: 'Supermercado One', cursive;
+}
+.menu-cards{
+    box-shadow: 0 4px 8px rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+}
+.menu-cards .btn{
+ background-color: red;
+ color:#fff;
+ border-radius:8px;
+ border: none;
+ outline: none;
+ letter-spacing:1px;
+ font-weight: bold;
+}
+.menu-cards .btn:hover{
+    background-color: rgb(46, 6, 6);
+}
+
+.card-container .menu-cards{
+    margin:20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin:20px auto;
+    flex-direction:column;
+    padding:15px 15px;
+    margin:18px;
+    text-align:center;
+}
+.card-container .menu-cards h2{
+   color: red;
+   font-weight: bold;
+}
+.card-container .menu-cards h4{
+  font-weight: bold;
+  color: red;
+}
+.card-container .menu-cards p{
+    font-family: 'Source Serif Pro', serif;
+}
+.card-container{
+    display:grid;
+    grid-template-columns: auto auto;
+}
+.card-container .menu-cards img{
+    height:25vh;
+    width:15vw;
+    margin-top:6px;
+}
