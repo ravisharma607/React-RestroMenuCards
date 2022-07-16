@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/React-RestroMenuCards/static/css/main.d780cbaa.chunk.css",
+    "main.js": "/React-RestroMenuCards/static/js/main.987482f7.chunk.js",
+    "main.js.map": "/React-RestroMenuCards/static/js/main.987482f7.chunk.js.map",
+    "runtime-main.js": "/React-RestroMenuCards/static/js/runtime-main.01711c4b.js",
+    "runtime-main.js.map": "/React-RestroMenuCards/static/js/runtime-main.01711c4b.js.map",
+    "static/js/2.68a89163.chunk.js": "/React-RestroMenuCards/static/js/2.68a89163.chunk.js",
+    "static/js/2.68a89163.chunk.js.map": "/React-RestroMenuCards/static/js/2.68a89163.chunk.js.map",
+    "index.html": "/React-RestroMenuCards/index.html",
+    "static/css/main.d780cbaa.chunk.css.map": "/React-RestroMenuCards/static/css/main.d780cbaa.chunk.css.map",
+    "static/js/2.68a89163.chunk.js.LICENSE.txt": "/React-RestroMenuCards/static/js/2.68a89163.chunk.js.LICENSE.txt",
+    "static/media/bf-2.a2c6b300.png": "/React-RestroMenuCards/static/media/bf-2.a2c6b300.png",
+    "static/media/bf-3.44cf9724.png": "/React-RestroMenuCards/static/media/bf-3.44cf9724.png",
+    "static/media/bf-5.cb29bdff.jpg": "/React-RestroMenuCards/static/media/bf-5.cb29bdff.jpg",
+    "static/media/dinner-1.24f23840.png": "/React-RestroMenuCards/static/media/dinner-1.24f23840.png",
+    "static/media/dinner-3.f783c531.png": "/React-RestroMenuCards/static/media/dinner-3.f783c531.png",
+    "static/media/drink-1.f8be473f.png": "/React-RestroMenuCards/static/media/drink-1.f8be473f.png",
+    "static/media/drink-2.8512a3e6.png": "/React-RestroMenuCards/static/media/drink-2.8512a3e6.png",
+    "static/media/drink-3.4e028ef7.png": "/React-RestroMenuCards/static/media/drink-3.4e028ef7.png",
+    "static/media/drink-5.ae218742.png": "/React-RestroMenuCards/static/media/drink-5.ae218742.png",
+    "static/media/lunch-3.c2a05136.png": "/React-RestroMenuCards/static/media/lunch-3.c2a05136.png",
+    "static/media/lunch-4.615646ab.png": "/React-RestroMenuCards/static/media/lunch-4.615646ab.png",
+    "static/media/lunch-5.4801c52a.jpg": "/React-RestroMenuCards/static/media/lunch-5.4801c52a.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.01711c4b.js",
+    "static/js/2.68a89163.chunk.js",
+    "static/css/main.d780cbaa.chunk.css",
+    "static/js/main.987482f7.chunk.js"
+  ]
+}
